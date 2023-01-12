@@ -1,0 +1,85 @@
+@media screen and (max-width:768px) {
+    nav {
+        position: inherit;
+    }
+
+    .menu {
+        display: none;
+    }
+
+    #top img {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin: 0;
+    }
+
+    .container {
+        max-width: 300px;
+        margin: auto;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    /* HEADER */
+
+    .text_mainH {
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .text_mainH h1 {
+        font-size: 40px;
+    }
+
+    .conocenos a {
+        font-size: 20px;
+    }
+
+    #difNormas {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .normas1 {
+        margin-bottom: 30px;
+    }
+
+    .trustUs h1 {
+        text-align: center;
+    }
+
+    .trustUs {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .contactUs {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .text-end {
+        font-size: 30px;
+        margin-bottom: 50px;
+    }
+
+    .contact-info {
+        display: none;
+    }
+
+    .contact-form {
+        width: 100%;
+        margin: 0;
+    }
+
+    input,
+    textarea {
+        width: fit-content;
+    }
+
+
+}

@@ -31,6 +31,14 @@ body {
   justify-content: space-between;
 }
 
+.containerTrust {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
 /* navbar */
 nav {
   position: fixed;
@@ -83,7 +91,7 @@ nav {
   overflow: hidden;
 }
 
-.conocenos a{
+.conocenos a {
   background-color: var(--main_red);
   font-size: 25px;
   font-weight: 600;
@@ -93,7 +101,8 @@ nav {
   padding: 10px;
   border-radius: 20px;
 }
-.sepConocenos{
+
+.sepConocenos {
   height: 30px;
 }
 
