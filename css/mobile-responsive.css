@@ -81,5 +81,14 @@
         width: fit-content;
     }
 
+    .slider {
+        margin: 0;
+        padding: 0;
+    }
+
+    .customer_logos {
+        margin: 0;
+        padding: 0;
+    }
 
 }
