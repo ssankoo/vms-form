@@ -76,10 +76,12 @@
         margin: 0;
     }
 
-    input,
-    textarea {
+    input {
         width: fit-content;
+
     }
+
+    #sendBtn {}
 
     .slider {
         margin: 0;

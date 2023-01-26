@@ -235,6 +235,10 @@ nav {
   padding: 0px 20px 0 20px;
 }
 
+.slide img {
+  width: 15rem;
+}
+
 .customer_logos:hover .slide {
   animation-play-state: paused;
 }
