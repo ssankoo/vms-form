@@ -170,7 +170,7 @@ nav {
 
 .normas1 h2 {
   font-size: 1rem;
-  font-weight: 200;
+  font-weight: 600;
 }
 
 /*
@@ -249,7 +249,7 @@ nav {
   }
 
   100% {
-    transform: translate3d(-1100px, 0, 0);
+    transform: translate3d(-2000px, 0, -3000px);
   }
 }
 
